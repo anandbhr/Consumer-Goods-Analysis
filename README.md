@@ -1,3 +1,5 @@
+# Consumer Goods Analysis Using SQL
+
 ## Project Overview
 Domain:  Consumer Goods | Function: Executive Management
 
@@ -7,8 +9,8 @@ However, the management noticed that they do not get enough insights to make qui
 
 ## Task:  
 
-Imagine yourself as the applicant for this role and perform the following task
+Imagine yourself as a data analyst and perform the following task
 
 1.    Check ‘ad-hoc-requests.pdf’ - there are 10 ad hoc requests for which the business needs insights.
 2.    You need to run a SQL query to answer these requests. 
-3.    The target audience of this dashboard is top-level management - hence you need to create a presentation to show the insights.
+3.    The target audience of this dashboard is top-level management - hence create a presentation to show the insights.
